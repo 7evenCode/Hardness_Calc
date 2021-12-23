@@ -1,4 +1,4 @@
 # Hardness_Calc
 
-# This onsole program designed for quick calculation. Run Hardness_Calc.exe
-# For compilatino used MinGV compiller.
+### This console program designed for quick calculation. Run Hardness_Calc.exe
+### For compilatino used MinGV compiller.
