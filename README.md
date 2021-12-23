@@ -1,4 +1,4 @@
 # Hardness_Calc
 
-# For run this console program unpack the RAR archive and run Hardness_Calc.exe file.
+# This onsole program designed for quick calculation. Run Hardness_Calc.exe
 # For compilatino used MinGV compiller.
